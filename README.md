@@ -2,4 +2,4 @@
 <h1 align="center">Hi 👋, I'm Kaissar Mouelhi</h1>
 <h3 align="center">A passionate software developer</h3>
 
-![](https://i.pinimg.com/originals/48/0d/d9/480dd9ed49a78b42ca76671d8d7082e5.gif =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
