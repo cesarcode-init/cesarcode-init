@@ -7,4 +7,5 @@
 
 <p align="left">I'm a self-taught software developer coming from an English major. I'm a passionate learner who's always willing to explore and learn new technologies. I like documenting my journey to guide people and build competent communities. Some technologies I'm interested in working with include ReactJS, ExpressJS, JavaScript, APIs and more. I'm a staunch supporter of open-source development. Let's make the world a better place.</p>
 
+### Languages & Tools
 
