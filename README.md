@@ -37,4 +37,5 @@
 #### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+#### Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cesarcode-init)](https://git.io/streak-stats)
