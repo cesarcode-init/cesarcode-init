@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Kaissar Mouelhi</h1>
-<h3 align="center">A passionate software developer</h3>
+
+<p align="left">I'm a self-taught software developer coming from an English major. I'm a passionate learner who's always willing to explore and learn new technologies. I like documenting my journey to guide people and build competent communities. Some technologies I'm interested in working with include ReactJS, ExpressJS, JavaScript, APIs and more.</p>
 
 
