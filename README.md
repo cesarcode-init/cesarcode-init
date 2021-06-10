@@ -35,7 +35,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true)](https://git.io/streak-stats)
