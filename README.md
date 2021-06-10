@@ -28,3 +28,7 @@
 <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://www.figma.com/" target="_blank" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="33" height="33"/> </a>
 </p>
+
+### Stats
+
+[](https://github-readme-stats.vercel.app/api?username=cesarcode-init)](https://github.com/anuraghazra/github-readme-stats)
