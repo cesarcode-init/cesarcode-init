@@ -36,13 +36,20 @@
 ### Stats
 
 #### Account
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="http://www.github.com/cesarcode-init"><img src="https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true" alt="cesarcode-init's GitHub stats" /></a>
 
 #### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/cesarcode-init" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true" alt="Top Languages" /></a>
 
 #### Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<a href="http://www.github.com/cesarcode-init"><img src="http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true" /></a>
+
+<!-- #### Commits
+
+<a href="http://www.github.com/cesarcode-init"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cesarcode-init&theme=react&hide_border=true" alt="GitHub Commits Graph" /></a> -->
 
 ### Socials
 
