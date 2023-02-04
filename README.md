@@ -44,4 +44,11 @@
 #### Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+### Socials
+
+<p align="left"> 
+ <a href="https://www.github.com/cesarcode-init" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /></a> 
+ <a href="https://www.linkedin.com/in/kaissar-mouelhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
+</p>
+
 
